@@ -1,2 +1,2 @@
 # Scrape_odds_from_betting_site
-Scraping odds from a betting site 
+Scraping elements that are not shown in page source 
